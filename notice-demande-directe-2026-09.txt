@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notice demande directe — OPF-Immo — 2026-09</title>
+  </head>
+  <body style="font: 1rem/1.6 system-ui; max-width: 48rem; margin: 3rem auto; padding: 0 1rem">
+    <h1>Notice d'information — demande acquéreur directe</h1>
+    <p>Version 2026-09. Parcours de test du MVP OPF-Immo ; ne soumettez pas de données réelles avant la validation de la notice et du registre des traitements.</p>
+    <h2>Pourquoi et quelles données ?</h2>
+    <p>Avec votre accord explicite, OPF-Immo traite votre alias, votre adresse e-mail, votre budget maximal, vos zones, vos types de biens et votre minimum de pièces pour rapprocher votre demande d'offres immobilières. La provenance du formulaire, cette version de notice, la finalité et l'heure de votre accord sont enregistrées. Aucun revenu, document financier, adresse personnelle, date de naissance ou profession n'est demandé.</p>
+    <h2>Confirmation et accès</h2>
+    <p>Un code à usage unique envoyé par e-mail expire après 30 minutes. Sans sa saisie, votre demande ne participe pas au rapprochement ; une demande non confirmée expirée est effacée par la maintenance après 24 heures. Après confirmation, des agents immobiliers authentifiés voient votre alias et vos critères ; la révélation de votre e-mail exige une action motivée et auditée. Votre téléphone n'est pas collecté. La confirmation prouve le contrôle du canal e-mail, pas votre solvabilité ni la persistance de votre intention ; après 90 jours sans nouvelle confirmation, les correspondances sont signalées comme possibles.</p>
+    <h2>Protection et droits</h2>
+    <p>L'e-mail est chiffré en base ; le code de confirmation n'y est conservé que sous forme d'empreinte jusqu'à son utilisation ou son expiration. Les preuves de confirmation ne contiennent ni coordonnées ni code et sont conservées dans le journal restreint. Les demandes confirmées suivent la politique de conservation des demandes de l'OPF-Immo, à compléter avant l'ouverture aux données réelles. Vous pouvez demander l'accès, l'opposition ou l'effacement auprès de l'administrateur OPF-Immo par le canal de contact qui vous a transmis le formulaire ; ce canal et l'identité juridique du responsable doivent être publiés avant toute collecte réelle.</p>
+    <p><a href="/demande-directe">Retour au formulaire</a></p>
+  </body>
+</html>
