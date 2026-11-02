@@ -1,5 +1,6 @@
 {
   "channelVerification": {
+    "controller": "CAPITAL DIASPORA SAS",
     "date": "2026-10-23",
     "handler": "The Data Privacy team",
     "provenance": "owner-attested",
@@ -8,17 +9,28 @@
     "scope": "operational-receipt-and-handling"
   },
   "channelVerified": true,
+  "companyApproval": {
+    "content_sha256": "066ccd066f22039ca6a82e9b75905ba028b7783e554143f98dcce3787f897bc8",
+    "controller": "CAPITAL DIASPORA SAS",
+    "document_sha256": "92c2f7afd542db724e0b1ce90575faec22b2adfa3212bd960a0371011ed47dcc",
+    "noticeVersion": "n-b871a351b94bf79ac2cbfe3ecd22e26955fb86ac16a7870ffa96df319f32d7f2",
+    "provenance": "company-approved",
+    "purpose": "rapprochement immobilier",
+    "scope": "information-only",
+    "version": "OPF-62-COMPLETE-01"
+  },
   "files": {
-    "droits.html": "ce186e72a78735ecbb14712c4dc83dc43708527cbf3be0adb24bad3debb29ea6",
-    "historique.html": "fa4de9cf0330858bde0c7087bc4fb7d81b8392519b818cf81712b408fad004d6",
-    "index.html": "97a01e764958e6f7202f36435a4a38c3f5621f9d210376fac9c2ad95220ab3a4",
+    "droits.html": "b2e1d4c8e415669e64042a053c4cb3ab281679c00128d3ed86a98de975c20ec4",
+    "historique.html": "bb54fbea9ee82f5e293f9b431ac00ece6760eb4a6a2deaa3a07a5781925de4a0",
+    "index.html": "4f6da5d447edab258ff959833fb4e8261821daeb927d02f32d3a0382ce90bbbf",
     "notice-demande-directe-2026-09.txt": "db2400a0f3fb7eca97d9de5fef9931511f208c407ef81374bf029fc0ccca0c72",
     "notice-demande-directe-2026-10.txt": "1f93a54321d38976fa13ed13fe64fe8c6b2aa38e4ab80f846810d1a7a076661d",
     "notice-n-0a08f8ab85b899564c8d92d1ccb7d0013845cc6cac910a878943580d76782a9d.html": "97a01e764958e6f7202f36435a4a38c3f5621f9d210376fac9c2ad95220ab3a4",
     "notice-n-1280b028c28c56ee27604cd79c9aa0bde711e4b475de853aa67af4a319dfadaf.html": "4247d2490ce9f62798028f306388ce853450727dae6ef50c8418583be855f9eb",
-    "notice-n-208d2b976e574d0d5b7516cb12694f61f540fcb8a80ea80d05aac2542a1e23c2.html": "4536a9b877f8b91f239bf33ef9110e98714edf52e3408e4cd5d1860a66920cc0"
+    "notice-n-208d2b976e574d0d5b7516cb12694f61f540fcb8a80ea80d05aac2542a1e23c2.html": "4536a9b877f8b91f239bf33ef9110e98714edf52e3408e4cd5d1860a66920cc0",
+    "notice-n-b871a351b94bf79ac2cbfe3ecd22e26955fb86ac16a7870ffa96df319f32d7f2.html": "4f6da5d447edab258ff959833fb4e8261821daeb927d02f32d3a0382ce90bbbf"
   },
   "purpose": "rapprochement immobilier",
-  "usable": false,
-  "version": "n-0a08f8ab85b899564c8d92d1ccb7d0013845cc6cac910a878943580d76782a9d"
+  "usable": true,
+  "version": "n-b871a351b94bf79ac2cbfe3ecd22e26955fb86ac16a7870ffa96df319f32d7f2"
 }
